@@ -1,0 +1,14 @@
+{
+    "glitch_symbols": ["̴","̶","̷","̵"],
+    "creepy_replies": [
+        "The gate is opening...",
+        "Something is moving...",
+        "We can hear you...",
+        "The walls are thin here..."
+    ],
+    "vecna_lines": [
+        "You strengthened the connection.",
+        "Now I can see your world.",
+        "There is no closing the gate now."
+    ]
+}
