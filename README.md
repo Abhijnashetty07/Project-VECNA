@@ -1,9 +1,9 @@
-# 📂 Project-VECNA | Protocol: 011
+# Project-VECNA | Protocol: 001
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
- **WARNING:** System instability detected. Monitor signal strength. Do not stay idle for too long. 
+
+ 
 
 ## Overview
 **Project-VECNA** (Virtual Environment for Compromised Network Analysis) is an interactive, sentient terminal interface built with Python. What appears to be a standard "hacker-style" command line is actually a gateway to another dimension. 
@@ -28,3 +28,4 @@ This project explores **dynamic UI adaptation**, **event-driven animation**, and
    git clone [https://github.com/Abhijnashetty07/Project-VECNA.git](https://github.com/Abhijnashetty07/Project-VECNA.git)
    cd Project-VECNA
    python main.py
+
